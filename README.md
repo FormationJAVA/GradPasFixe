@@ -1,2 +1,2 @@
 # GradPasFixe
-Implémentation JAVA Gradient à pas fixe
+Implémentation JAVA du Gradient à pas fixe
